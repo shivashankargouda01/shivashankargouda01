@@ -78,16 +78,3 @@ Final-Year Computer Science Student | Java Backend Developer | Spring Boot | MyS
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivashankargouda01&show_icons=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivashankargouda01"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivashankargouda01&layout=compact"/>
-</p>
